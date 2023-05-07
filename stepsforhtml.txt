@@ -1,0 +1,4 @@
+Steps to gather html files of Discord servers:
+1. Download Discord (if you haven't already) and create a profile
+2. Download DiscordChatExporter (https://github.com/Tyrrrz/DiscordChatExporter)
+- After installing, follow the steps in DiscordChatExporter
